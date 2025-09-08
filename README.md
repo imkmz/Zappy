@@ -159,3 +159,7 @@ See the main project [LICENSE](LICENSE) for details.
 ---
 
 *For more information, see the source code in [src/gui/](src/gui/) and the project documentation (README.md).*
+
+## Thanks
+
+Made with Thibaud (GUI), Arthur (GUI), Aurélien (Network), Alexandre (Network), Pierre-Louis (IA), and myself (IA).
