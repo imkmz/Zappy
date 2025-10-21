@@ -162,4 +162,4 @@ See the main project [LICENSE](LICENSE) for details.
 
 ## Thanks
 
-Made with Thibaud (GUI), Arthur (GUI), Aurélien (Network), Alexandre (Network), Pierre-Louis (IA), and myself (IA).
+Made with Thibaud (GUI), Arthur (GUI), Aurélien (Network), Alexandre (Network), Pierre-Louis (AI), and myself (AI).
